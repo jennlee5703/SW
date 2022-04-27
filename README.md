@@ -6,3 +6,7 @@ The data and analysis is in the repository so to replicate results, please run d
 
 For any questions, please contact jl873@duke.edu
 
+File Description:
+Pump and Dump dataset.zip: dataset on pumps-and-dump schemes on the Cryptopia exchange
+Jennifer_Lee_Data_Descriptor_SW.ipynb: data prepocesssing and generating graphs
+deceision_tree_pump_and_dump_predictor.ipynb: full code of the analysis
