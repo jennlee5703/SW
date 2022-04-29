@@ -1,7 +1,7 @@
 Jennifer Lee Signature Work Spring 2022 Duke Kunshan University
 
 Preventing Pump and Dump Schemes with Using Supervised Machine Learning Models: Relevance in Stock and Cryptocurrency Market
-full research paper: https://drive.google.com/file/d/1xZFaNtMs8dOLiUi8pK5G_japlLl_8z9S/view?usp=pdf
+research paper: https://drive.google.com/file/d/1xZFaNtMs8dOLiUi8pK5G_japlLl_8z9S/view?usp=pdf
 
 This repo contains code and datasets for the research on cryptocurrency exchanges and pumps-and-dumps.
  
