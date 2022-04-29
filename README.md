@@ -1,8 +1,10 @@
 Jennifer Lee Signature Work Spring 2022 Duke Kunshan University
 ![흰색 보정됨](https://user-images.githubusercontent.com/99083699/165436051-739500d0-1b45-46a8-b4af-c46dd2e9225e.jpg)
 
+Author Introduction
 
-Hi. My name is Jennifer Lee, a senior Economics student at Duke Kunshan Univeristy. 
+Jennifer Lee is a senior Economics student at Duke Kunshan University with expected graduation in May 2022. Her research interests lie at the intersection of finance, law, and computer science. After graduation, she will be working as an Investment Bank Compliance Analyst at Goldman Sachs in Hong Kong. For any questions regarding this research, please contact jl873@duke.edu.
+
 For my graduation captone project, I am working on analyzing the best supervised ML model for detecting pumps-and-dumps in the cryptocurrency market. 
 The data and analysis is in the repository so to replicate results, please run deceision_tree_pump_and_dump_predictor.ipynb
 
