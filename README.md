@@ -20,3 +20,6 @@ File Description:
 Pump and Dump dataset.zip: dataset on pumps-and-dump schemes on the Cryptopia exchange
 Jennifer_Lee_Data_Descriptor_SW.ipynb: data prepocesssing and generating graphs
 deceision_tree_pump_and_dump_predictor.ipynb: full code of the analysis
+
+![Uploading jl873_JenniferLee_2022_LuyaoZhang__122991866_SWPoster.jpeg…]()
+
